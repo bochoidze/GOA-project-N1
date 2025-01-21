@@ -1,0 +1,27 @@
+
+body{
+    
+    background-image:url(https://image.spreadshirtmedia.net/image-server/v1/products/T664A1PA3625PT17X0Y16D147280542W13447H10937/views/1,width=1200,height=630,appearanceId=1,backgroundColor=F2F2F2,modelId=6115,crop=design/tee-shirt-trollface-rageface-meme-baby-t-shirt.jpg) ;
+  width: auto;
+  height: auto;
+}
+a{
+    color: dodgerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    transition: 0.5s;
+        color:rgb(0, 139, 5);
+        font-family: cursive;
+        text-decoration: none;
+        font-size: 40px;
+}
+a:hover{
+    color: red;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 70px;
+  }
+
+
+
+  

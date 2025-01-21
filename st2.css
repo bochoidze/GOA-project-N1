@@ -1,0 +1,104 @@
+body{
+
+    background-color:darkslategray;
+  
+}
+
+
+.gg{
+    color: red;
+    font-family: cursive;
+    
+
+
+
+
+    text-shadow: 20px 20px  1px  blue, 40px 40px  1px  blue,  60px 60px  1px blue ,  -20px -20px 1px blue;
+     
+    
+}
+
+
+.hh{
+
+    color: red;
+
+    text-shadow: 20px 20px  1px  blue, 40px 40px  1px  blue,  60px 60px  1px blue ,  -20px -20px 1px blue;
+    font-family: cursive;
+
+}
+img{height: 250px;
+    width: 270px;
+    padding: 35px;
+    margin: 65px;
+    border: 15px blue;
+    background-color:cyan;
+    
+}
+
+p{
+    color: black;
+    font-size: 2.5em;
+    font-family: cursive;
+    height: 20pxpx;
+    width: 270px;
+    padding: 35px;
+    margin: 65px;
+    border: 15px blue;
+    background-color:rgb(246, 250, 14);
+    text-align: center;
+}
+
+.div{
+    display: flex;
+}
+.divs{
+    display: flex;
+ 
+}
+.divg{
+    display: flex;
+}
+.divu{
+    display: flex;
+}
+.divx{
+    display: flex;
+}
+.r{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.divrr{
+    display: flex;
+}
+.io{
+  background-color: orangered;
+   
+}
+a{
+    color: dodgerblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    transition: 0.5s;
+        color:rgb(0, 139, 5);
+        font-family: cursive;
+        text-decoration: none;
+        font-size: 40px;
+        align-items: center;
+}
+a:hover{
+    color: red;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 100px;
+  }
+
+  
+
+   
+
+
+
+
