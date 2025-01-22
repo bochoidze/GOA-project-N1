@@ -18,4 +18,40 @@ h1:hover{
         font-size: 40px;
         font-family: 'Courier New', Courier, monospace;
     }
-   
+    @media (min-width:360pc) {
+        header .imgg{
+          width: 200px;
+        }
+    header {
+         
+        justify-content: center;
+        text-align: center;
+        font-family: cursive;
+        font-size: 100px;
+        color: white;
+        display: none;
+        border-width: 300px;
+        grid: none;
+    }
+    ::selection {
+        justify-content: center;
+        text-align: center;
+        font-family: cursive;
+        font-size: 100px;
+        color: white;
+        display: none;
+        border-width: auto;
+        grid: none;
+    }
+    footer{
+        justify-content: center;
+        text-align: center;
+        font-family: cursive;
+        font-size: 100px;
+        color: white;
+        display: none;
+        grid: none;
+       
+    }
+    
+    }
