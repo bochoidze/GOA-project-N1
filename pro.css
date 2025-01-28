@@ -138,8 +138,8 @@ a{
 }
 @media (min-width:360pc) {
     header .imgg{
-      width: 200px;
-    }
+        width: 200px;
+      }
 header {
      
     justify-content: center;
